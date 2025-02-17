@@ -52,7 +52,8 @@ Which board would you like to solve: 1
 Solved board:
 6 1 9 | 8 4 7 | 3 5 2
 ...
-Thank you for using the Sudoku Solver! ```
+Thank you for using the Sudoku Solver!
+```
 
 ## Future Improvements
 - Allow users to input their own Sudoku board.
